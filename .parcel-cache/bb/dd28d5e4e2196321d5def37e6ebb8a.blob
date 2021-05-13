@@ -1,0 +1,7 @@
+.app-container {
+  background-color: #ffc8c8;
+}
+
+.app-container {
+  background-color: red;
+}

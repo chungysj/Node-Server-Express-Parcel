@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width">
+	<title>repl.it</title>
+	<link href="410ea0bd364ed2fae5df8935d810d870" rel="stylesheet" type="text/css">
+</head>
+
+<body>
+	<h1>Hello World Wide Web</h1>
+	<p>This time with <a href="e166ea4a61fc19900fe537f9078eee65">Express</a> and <a href="6d0fcc56095bb71170941383406fc80c">Parcel</a>.</p>
+	<script src="d383291d776e2b7c8290344af133a929" data-parcel-key="18842add776c6a75fdde9d0f071c87df">
+	</script>
+</body>
+
+</html>

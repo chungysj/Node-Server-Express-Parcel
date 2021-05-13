@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width">
+	<title>repl.it</title>
+	<link href="1948a78ca4ef53df0837ee1286e28bf4" rel="stylesheet" type="text/css">
+</head>
+
+<body class="app-container">
+	<h1>Hello World Wide Web</h1>
+	<p>This time with <a href="e166ea4a61fc19900fe537f9078eee65">Express</a> + <a href="6d0fcc56095bb71170941383406fc80c">Parcel</a> + <a href="8c0225428a05d7e0b3a2551fa312c8f8">SASS (SCSS)</a>!</p>
+	<script src="d383291d776e2b7c8290344af133a929" data-parcel-key="05f8d0d79d60c9ebdb00b1ff8daefdae">
+	</script>
+</body>
+
+</html>
